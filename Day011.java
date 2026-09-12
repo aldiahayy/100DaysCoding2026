@@ -18,8 +18,9 @@ public class Day011 {
         System.out.println("===============================================");
         System.out.printf("%-15s : %s%n", "Nama",nama);
         System.out.printf("%-15s : %s%n", "NIM", nim);
-        System.out.printf("%-15s : %d%n", "Umur", umur);
-        System.out.printf("%-15s : %.2f%n","Tinggi Badan", tinggiBadan);
-        System.out.printf("%-15s : %c%n", "Grade", grade);
+        System.out.printf("%-15s : %d Tahun%n", "Umur", umur);
+        System.out.printf("%-15s : %.2f cm%n","Tinggi Badan", tinggiBadan);
+        System.out.printf("%-15s : %c", "Grade", grade);
+        System.out.println("===============================================");
     }
 }
