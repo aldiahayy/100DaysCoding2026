@@ -45,7 +45,6 @@ public class Day038 {
                 totalAwal -= 5000;
                 System.out.println("Diskon Member diterapkan (Potongan Rp 5000)");
             }
-          
             System.out.println("-------------------------------------------");
             System.out.println("Total yang harus dibayar : Rp " + totalAwal);
         } else {
